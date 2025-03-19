@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Christian</h1>
-<h3 align="center">Data scientist | ML Engineer | Startup Founder</h3>
+<h1 align="center">Hola, soy Christian Donaire</h1>
+<h3 align="center">Data scientist | ML Engineer | Founder at Nodd3r</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
